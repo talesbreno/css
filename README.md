@@ -8,7 +8,7 @@ Exemplo de uso:
 
 **backgound / font**
 
-bg-blue-l
+bg-blue-l <br>
 txt-blue-l
 
 **cores**
