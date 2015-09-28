@@ -5,11 +5,13 @@ Exemplo de uso:
     <div class='bg-blue-l'></div>
 
 # Variações
-##backgound / font
+
+**backgound / font**
 
 bg-blue-l
 txt-blue-l
-##cores
+
+**cores**
 
 bg-turquesa-l
 bg-green-l
@@ -21,12 +23,13 @@ bg-orange-l
 bg-red-l
 bg-whie-l
 bg-gray-l
-##Tonalidade
+
+**Tonalidade**
 
 bg-blue-l [l = light(claro)]
 bg-blue-d [d = dark(escuro)]
 
-#Trânsparencia
+**Trânsparencia**
 
 bg-blue-l [solido]
 bg-blue-l-t [50% alfa]
